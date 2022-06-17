@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+   <file alias="gras.png">gras.png</file>
+    <file alias="italique.png">italique.png</file>
+</qresource>
+</RCC>
